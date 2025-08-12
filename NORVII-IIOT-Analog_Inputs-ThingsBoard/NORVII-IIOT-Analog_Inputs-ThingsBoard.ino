@@ -7,8 +7,8 @@
 #define SCL 17
 
 // WiFi credentials
-const char* ssid = "SLT-Fiber-2.4G";
-const char* password = "UrAT4254";
+const char* ssid = "Username";
+const char* password = "Password";
 
 // ThingsBoard Cloud settings
 const char* thingsboardServer = "thingsboard.cloud";
